@@ -65,9 +65,9 @@ int main()
     int numbers3[2][2] = {{1, 2}, {3, 4}};
 
     // Строки
-    char str[] = "Hello";
+    char str[] = "Hello"; // Дась изменить строку
     char str2[] = {'H', 'e', 'l', 'l', 'o', 0};
-    char *str3 = "Hello";
+    char *str3 = "Hello"; // Не даст изменить строку
     for (int i = 0; i < 6; i++) {
         printf("%d\n", str2[i]);
         printf("%s\n", str2);
