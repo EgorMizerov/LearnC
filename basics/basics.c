@@ -67,6 +67,7 @@ int main()
     // Строки
     char str[] = "Hello";
     char str2[] = {'H', 'e', 'l', 'l', 'o', 0};
+    char *str3 = "Hello";
     for (int i = 0; i < 6; i++) {
         printf("%d\n", str2[i]);
         printf("%s\n", str2);
