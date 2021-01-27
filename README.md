@@ -10,7 +10,8 @@
 ├── functions<br>
 │   ├── definition - Объявление функции<br>
 │   ├── import1/import2 - Взаимодействие файлов<br>
-│   └── params - Параметры функции<br>
+│   ├── params - Параметры функции<br>
+│   └── pointers - Указатели в параметрах функции<br>
 │<br>
 ├── pointers<br>
 │   ├── basics - Указатели<br>
